@@ -83,6 +83,7 @@ function keyPressed() {
        numberOfArrows -= 1;
     }
    }
+}
 
 
 function keyReleased() {
